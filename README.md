@@ -1,5 +1,5 @@
-# Unity_Practice_2D_Scene_Field
- Unity 練習 2D 場景與欄位
+# Unity_Practice_2D_Scene_Character
+ Unity 練習 2D 場景與角色
 
 1. 請利用分支 (Fork) 功能
 2. 使用 GitHub 複製 (Clone) 功能將此分支專案複製到電腦
